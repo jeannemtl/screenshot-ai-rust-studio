@@ -41,3 +41,9 @@ npm run tauri build
 3. Enter your API keys and preferences
 4. Click "Start Server"
 <img width="1192" height="492" alt="Screenshot 2025-08-27 at 11 16 21 AM" src="https://github.com/user-attachments/assets/ddb85123-a9c2-4d10-abe9-2e6c16d77e67" />
+
+### Screenshot examples
+
+<img width="1010" height="989" alt="Screenshot 2025-08-27 at 11 42 09 AM" src="https://github.com/user-attachments/assets/f3633fa3-abc8-44d6-b0da-f633ba624059" />
+<img width="1202" height="786" alt="Screenshot 2025-08-27 at 11 47 54 AM" src="https://github.com/user-attachments/assets/819c0f25-9de4-4687-8584-e7e53a7dfa09" />
+<img width="1185" height="750" alt="Screenshot 2025-08-27 at 11 48 12 AM" src="https://github.com/user-attachments/assets/cbd2cb3e-9745-4a59-8c0e-029cd57e872a" />
